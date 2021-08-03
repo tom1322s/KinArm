@@ -3,3 +3,7 @@
 progArduinoDUE.bat
 progArduinoDUE.txt
 Debug/
+*.atsln
+.vs/
+*.cproj
+*.xml
